@@ -1,0 +1,5 @@
+nr.1: 13: hi
+nr.2: 10: hello 
+nr.3: 13: what's up ayooo?
+nr.4: 10 replies to -3 oyoyoyoyoyo
+nr.5: 10: 

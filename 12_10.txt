@@ -1,0 +1,16 @@
+nr.1: 12: hii
+nr.1: 10: hellooo
+nr.2: 10: imi e fricutza de retele
+nr.4: 10: hello
+nr.5: 12: oop
+nr.6: 10 replies to -1 merry xmas
+nr.7: 12 replies to -4 good enough for me
+nr.10: 12: vreau acasa
+nr.11: 10: same 
+nr.12: 12 replies to -5 la mama acasa
+nr.13: 10: sa mancam o ciorbita 
+nr.17: 10: buna
+nr.18: 12: heeeei
+nr.19: 10: hello
+nr.20: 12: vreau sarmale 
+nr.21: 10: vreau pasca :))))) 
